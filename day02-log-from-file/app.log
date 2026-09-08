@@ -1,0 +1,6 @@
+INFO User service started
+ERROR Database connection timeout
+INFO Request completed
+WARN Kafka consumer lag is high
+ERROR Failed to publish event
+UNKNOWN Critical system anomaly detected
