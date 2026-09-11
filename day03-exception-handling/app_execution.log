@@ -1,0 +1,11 @@
+2026-09-11 06:39:23,796 [INFO] Info log: INFO User service started
+2026-09-11 06:39:23,796 [ERROR] Error log: ERROR Database connection timeout
+2026-09-11 06:39:23,796 [INFO] Info log: INFO Request completed
+2026-09-11 06:39:23,796 [WARNING] Warning log: WARN Kafka consumer lag is high
+2026-09-11 06:39:23,796 [ERROR] Error log: ERROR Failed to publish event
+2026-09-11 06:39:23,796 [WARNING] Unknown log type: UNKNOWN Critical system anomaly detected
+2026-09-11 06:39:23,796 [WARNING] Warning log: WARN Disk space running low
+2026-09-11 06:39:23,796 [WARNING] Warning log: WARN Memory usage is high
+2026-09-11 06:39:23,796 [ERROR] Error log: ERROR Failed to connect to Redis
+2026-09-11 06:39:23,796 [INFO] Execution Summary
+2026-09-11 06:39:23,796 [INFO] Total logs processed: 9, Total errors: 3, Total warnings: 3, Total info logs: 2
